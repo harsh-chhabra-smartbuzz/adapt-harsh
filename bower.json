@@ -1,0 +1,15 @@
+{
+    "name": "adapt-harsh",
+    "repository": "https://github.com/harsh-chhabra-smartbuzz/adapt-harsh",
+    "framework": "~2.0.2",
+    "version": "1.0.1",
+    "homepage": "https://github.com/harsh-chhabra-smartbuzz/adapt-harsh",
+    "description": "this is test component",
+    "main": "/js/adapt-harsh.js",
+    "displayName": "Harsh",
+    "component": "harsh",
+    "keywords": [
+        "adapt-harsh",
+        "adapt-component"
+    ]
+}
