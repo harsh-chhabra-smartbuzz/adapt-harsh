@@ -48,7 +48,7 @@ define(function(require) {
 
     });
 
-    Adapt.register('Harsh', Harsh);
+    Adapt.register('harsh', Harsh);
 
     return Harsh;
 
