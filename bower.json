@@ -1,14 +1,15 @@
 {
-    "name": "adapt-harsh-newupdated",
+    "name": "adapt-harsh",
     "repository": "https://github.com/harsh-chhabra-smartbuzz/adapt-harsh",
     "version": "2.0.2",
     "homepage": "https://github.com/harsh-chhabra-smartbuzz/adapt-harsh",
-    "description": "this is test component",
+    "description": "this is test component harsh",
     "main": "/js/adapt-harsh.js",
     "displayName": "Harsh",
     "component": "harsh",
     "keywords": [
         "adapt-harsh",
         "adapt-component"
-    ]
+    ],
+    "license": "GPLv3"
 }
